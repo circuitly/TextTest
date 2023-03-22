@@ -8,6 +8,11 @@
   )
 
 
+  (no_connect (at 262.89 48.895) (uuid 1a19cd1a-7be9-487e-975f-a515e4e2917d))
+  (no_connect (at 64.135 51.435) (uuid 46ee0a59-ca0f-4ee6-b1c6-15c16372f466))
+  (no_connect (at 264.795 125.095) (uuid 807478a0-221c-486c-b3d2-07b639eb4847))
+  (no_connect (at 60.96 127.635) (uuid 87cf0b75-c4f0-4f54-8802-71541ef77659))
+
   (polyline (pts (xy 120.65 69.85) (xy 120.65 106.68))
     (stroke (width 0) (type default))
     (uuid 4b78e2e5-f5b4-42cc-8e05-979b627aef0e)
