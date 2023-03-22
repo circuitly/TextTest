@@ -94,7 +94,7 @@
     (uuid e2a40cd4-8815-415a-a624-89bf1caa3fda)
   )
   (text "Text: Right Aligned - Bold - 1.27 - Horizontal" (at 167.64 86.36 0)
-    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify right bottom))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid ed9e0ada-1d14-4e2c-9ebc-0ef3111db3d4)
   )
   (text "Text: Left Aligned - Bold - 1.27 - Horizontal" (at 120.65 81.28 0)
