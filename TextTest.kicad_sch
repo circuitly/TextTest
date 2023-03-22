@@ -47,7 +47,7 @@
     (uuid 09de00d2-c66b-4057-af24-86ea792d1482)
   )
   (text "ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789-_" (at 230.505 106.68 0)
-    (effects (font (size 1.27 1.27) bold italic) (justify right bottom))
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold italic) (justify right bottom))
     (uuid 104251c6-231e-4c1a-b409-a9ea4b3e4f47)
   )
   (text "ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789-_" (at 184.785 101.6 0)
